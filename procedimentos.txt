@@ -1,0 +1,13 @@
+Nome Do Procedimento: dente
+ Descrição: tirar dente
+Valor unitário: 12.34Nome Do Procedimento: dente
+Descrição: tirar dente
+Valor unitário: 12.34Nome Do Procedimento: dente
+Descrição: tirar dente
+Valor unitário: 12.34Nome Do Procedimento: dente
+Descrição: tirar dente
+Valor unitário: 12.34Nome Do Procedimento: dente
+Descrição: tirar dente
+Valor unitário: 12.34Nome Do Procedimento: dente
+Descrição: tirar dente
+Valor unitário: 12.34
